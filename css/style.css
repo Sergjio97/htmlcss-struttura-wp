@@ -18,11 +18,20 @@
     margin-bottom: 20px;
 }
 
+.header-bottom {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
 /* ***debug*** */
 
 .debug.header-top {
     height: 100px;
     background-color: rgba(229,121,230,255);
+}
 
+.debug.header-bottom {
+    height: 300px;
+    background-color: rgba(225,214,122,255);
 }
 
