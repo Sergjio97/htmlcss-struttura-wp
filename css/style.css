@@ -57,6 +57,14 @@
 
 /* *** / main *** */
 
+/* *** footer *** */
+
+.box-footer {
+    width: 100%;
+}
+
+/* *** / footer *** */
+
 /* ***debug*** */
 
 .debug.header-top {
@@ -84,3 +92,7 @@
     background-color: rgba(171,207,231,255);
 }
 
+.debug.box-footer {
+    height: 40px;
+    background-color: rgba(140,0,255,255);
+}
